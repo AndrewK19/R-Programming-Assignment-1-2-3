@@ -2,7 +2,8 @@
 Coursera: Module 2 - R Programming Assignments
 Programming assignments for the course "R Programming"
 
-## Programming Assignment 1 - Air Pollution For this first programming assignment you will write three functions that are meant to
+## Programming Assignment 1 - Air Pollution 
+For this first programming assignment you will write three functions that are meant to
 interact with dataset that accompanies this assignment. The dataset is contained in a zip
 file specdata.zip that you can download from the Coursera web site.
 
